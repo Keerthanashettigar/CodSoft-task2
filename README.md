@@ -1,1 +1,1 @@
-# CodSoft-task2
+This code will takes the marks obtained in each subject and calculate total marks and it will sum up the marks in all subjets later it will calucaltes the average percentage and grade at last it will display the result
